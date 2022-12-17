@@ -12,7 +12,7 @@ This project is created using:
 * HTML
 
 ## Project status
-In process
+Completed
 
 ## Live Preview
 [Recipes](https://erasmorojastech.github.io/Recipes-TOP/)
