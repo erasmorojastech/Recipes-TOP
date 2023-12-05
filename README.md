@@ -15,4 +15,4 @@ This project is created using:
 In progress
 
 ## Live Preview
-[Recipes](https://erasmorojastech.github.io/Recipes-TOP/)
+[Recipes](https://recipes-top.netlify.app/)
