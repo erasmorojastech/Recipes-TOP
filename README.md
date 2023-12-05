@@ -12,7 +12,7 @@ This project is created using:
 * HTML
 
 ## Project status
-In progress
+Completed
 
 ## Live Preview
 [Recipes](https://recipes-top.netlify.app/)
