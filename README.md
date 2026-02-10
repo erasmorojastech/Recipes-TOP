@@ -1,4 +1,4 @@
-# 🍽️ Project: Recipes
+# Project: Recipes
 
 Here's my solution to the "Recipes" project from The Odin Project.
 
@@ -18,35 +18,34 @@ A simple recipes website built as part of The Odin Project curriculum to practic
 ## 🎨 Design
 There's no specific design for the project. This is a foundational exercise focusing on HTML structure.
 
-📚 Instructions may be found in:
-🔗 [Recipes - The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes)
+Instructions may be found in:
+[Recipes - The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes)
 
 ## 🛠️ Technologies
 This project is created using:
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML5
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ## 📊 Project Status
-🔄 In Process - Actively being developed
+Completed!
 
-## 👀 Live Preview  
-🚧 Under Construction... Coming soon!
+## 🔗 Live Preview
+[Recipes](https://erasmorojastech-recipes-top.netlify.app/)
 
 ## ✨ Features
-- 📝 Recipe listings with ingredients and instructions
-- 🏷️ Proper semantic HTML structure
-- 🔗 Internal linking between recipe pages
+- Recipe listings with ingredients and instructions
+- Proper semantic HTML structure
+- Internal linking between recipe pages
 
 ## 🚀 How to Use
-1. 📥 Clone the repository
+1. Clone the repository
    ```bash
    git clone https://github.com/your-username/recipes.git
    ```
    
-2. 📂 Navigate to the project folder
-3. 🌐 Open `index.html` in your web browser
+2. Navigate to the project folder
+3. Open `index.html` in your web browser
 
 ## 🔮 Future Improvements
-- 🎨 Add CSS styling for better visual presentation
-- 📱 Implement responsive design
-- ➕ Include more recipes and categories
-- ⭐ Add recipe ratings and reviews
+- Add CSS styling for better visual presentation
+- Implement responsive design
+- Include more recipes and categories
